@@ -1,5 +1,5 @@
 # Workflow otomatis untuk deploy ke GitHub Pages
-name: Deploy Space Shooter to GitHub Pages
+name: Deploy Meteor-Escape to GitHub Pages
 
 on:
   push:
